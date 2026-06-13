@@ -95,13 +95,3 @@ Ce projet m'a également permis de comprendre l'importance de :
 ## Niveau Avancé
 
 *(À venir)*
-
----
-### Prochaines étapes
-- Développer des projets de niveau Intermédiaire et Avancé pour explorer :
-  - Les APIs (ex. : intégration d'une API météo ou financière)
-  - Les frameworks modernes (React, Vue.js)
-  - Les animations avancées (CSS/JS)
-  - La persistance des données (localStorage, Firebase)
-- Améliorer l'interactivité avec des fonctionnalités dynamiques
-- Contribuer à des projets open source pour enrichir mon expérience
