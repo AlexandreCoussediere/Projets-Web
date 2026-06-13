@@ -1,28 +1,29 @@
-# Projets-Web
+# Portfolio de Projets Web
 
-Bienvenue dans mon portfolio de projets web (HTML / CSS / JavaScript). Ces projets ont été conçus pour démontrer mes compétences en programmation, allant des concepts de base aux défis plus complexes. Ils peuvent constamment changer pour accompagner ma progression et ma maîtrise de nouveaux outils.
+Bienvenue dans mon portfolio de projets web, où je mets en pratique mes compétences en développement front-end avec **HTML**, **CSS** et **JavaScript**. Ces projets évoluent constamment pour refléter ma progression technique et l'acquisition de nouvelles compétences.
 
 *Dernière mise à jour : 13 juin 2026*
 
 ---
-## Compétences globales
 
-Voici une synthèse des compétences que j'ai acquises et consolidées à travers mes projets. Ces compétences couvrent les bases, les concepts intermédiaires, et des bonnes pratiques essentielles en développement.
+## Compétences Globales
 
-| **Catégorie**               | **Compétences**                                                                                   |
-|-----------------------------|---------------------------------------------------------------------------------------------------|
-| **Langages**                | HTML5, CSS3, JavaScript (ES6+)                                                                    |
-| **Responsive Design**       | Media queries, Flexbox, Grid, Mobile-First                                                        |
-| **Outils de développement** | VScode, Github                                                                                    |
-| **Collaboration**           | GitHub, méthodologie Agile/Scrum, documentation, communication en équipe                          |
-| **Soft Skills**             | Résolution de problèmes, adaptabilité, curiosité, travail d'équipe,                               |
-| **Bonus**                   | contributions open source                                                                         |
+Voici une synthèse des compétences acquises et consolidées à travers mes projets, couvrant les bases, les concepts intermédiaires et les bonnes pratiques en développement web.
+
+| Catégorie                  | Compétences                                                                                     |
+|----------------------------|-------------------------------------------------------------------------------------------------|
+| Langages                   | HTML5, CSS3, JavaScript (ES6+)                                                                  |
+| Responsive Design          | Media queries, Flexbox, Grid, Mobile-First, Unités relatives (rem, em, %)                       |
+| Outils de développement    | VS Code, GitHub                                                                                 |
+| Collaboration              | GitHub (pull requests, issues), méthodologie Agile/Scrum, documentation                         |
+| Soft Skills                | Résolution de problèmes, adaptabilité, curiosité, esprit d'équipe, communication                |
+| Bonus                      | Contributions open source, veille technologique                                                 |
 
 ---
 
-# Classement par difficulté
+## Classement par Difficulté
 
-Mes projets sont classés en trois niveaux de difficulté : **Débutant**, **Intermédiaire** et **Avancé**. Chaque projet met en avant des compétences spécifiques et des concepts clés.
+Mes projets sont organisés en trois niveaux de difficulté : Débutant, Intermédiaire et Avancé. Chaque niveau met en avant des compétences spécifiques tout en respectant les bonnes pratiques de développement.
 
 ---
 
@@ -30,55 +31,77 @@ Mes projets sont classés en trois niveaux de difficulté : **Débutant**, **Int
 
 ### Calculatrice en Ligne
 
-Une calculatrice en ligne simple et intuitive développée avec **HTML, CSS et JavaScript**. Ce projet permet d'effectuer des calculs basiques et avancés tout en offrant une interface responsive et accessible, adaptée à tous les types d'appareils. Que ce soit sur smartphone, tablette ou ordinateur, l'expérience utilisateur reste fluide et intuitive.
+Une calculatrice en ligne simple et intuitive développée avec HTML, CSS et JavaScript. Ce projet permet d'effectuer des calculs basiques et avancés tout en offrant une interface responsive et accessible sur tous les types d'appareils.
 
 [Voir le code source (173 lignes)](https://github.com/AlexandreCoussediere/Projets-Web/blob/main/D%C3%A9butant/calculatrice_ia.html)
 
 #### Description
-Cette calculatrice en ligne est un projet complet qui combine **HTML**, **CSS** et **JavaScript** pour offrir une expérience de calcul à la fois simple et puissante. Elle prend en charge les **opérations basiques** comme les additions, soustractions, multiplications et divisions, mais va bien au-delà avec des fonctionnalités avancées telles que la racine carrée, le calcul de puissances, les inverses ou encore les opérations modulo.
+Ce projet est une calculatrice complète combinant HTML, CSS et JavaScript pour offrir une expérience de calcul simple et efficace. Elle prend en charge :
 
-Conçue pour être **responsive**, elle s'adapte parfaitement aux écrans de toutes tailles, garantissant une utilisation optimale sur mobile, tablette ou desktop. Son design épuré et ses boutons intuitifs en font un outil accessible, même pour les utilisateurs moins familiers avec les calculatrices en ligne.
+- Les opérations basiques : addition, soustraction, multiplication et division
+- Les opérations avancées : racine carrée, puissance, inverse, modulo et changement de signe
+
+Conçue pour être 100% responsive, elle s'adapte parfaitement aux écrans de toutes tailles (mobile, tablette, desktop). Son design épuré et ses boutons intuitifs la rendent accessible à tous les utilisateurs.
 
 #### Fonctionnalités
+
 **Opérations basiques :**
-- Addition, soustraction, multiplication et division.
-- Gestion des **nombres décimaux** pour des calculs précis.
+- Addition, soustraction, multiplication et division
+- Gestion des nombres décimaux pour des calculs précis
 
 **Opérations avancées :**
-- **Racine carrée** (`√x`) pour calculer la racine d'un nombre.
-- **Puissance** (`x²`) pour élever un nombre au carré.
-- **Inverse** (`1/x`) pour obtenir l'inverse d'un nombre.
-- **Modulo** (`%`) pour calculer le reste d'une division.
-- **Changement de signe** (`+/-`) pour alterner entre positif et négatif.
+- Racine carrée (√x) : calcul de la racine carrée d'un nombre
+- Puissance (x²) : calcul du carré d'un nombre
+- Inverse (1/x) : calcul de l'inverse d'un nombre
+- Modulo (%) : calcul du reste d'une division
+- Changement de signe (+/-) : alterner entre positif et négatif
 
 **Expérience utilisateur :**
-- Affichage en temps réel des calculs.
-- **Gestion des erreurs** avec des messages clairs (ex. : division par zéro).
-- Design **responsive** pour une utilisation optimale sur tous les appareils.
+- Affichage en temps réel des calculs
+- Gestion des erreurs avec messages clairs (division par zéro, racine carrée d'un nombre négatif)
+- Design responsive et accessible
 
-#### Pourquoi ce projet ?
-Ce projet a été réalisé dans un objectif d'apprentissage et de maîtrise des **fondamentaux du développement web**. Il m'a permis de :
-- **Structurer une page web** avec **HTML**, en créant une interface claire et fonctionnelle.
-- **Styliser et rendre le projet responsive** grâce à **CSS**, en veillant à ce que l'interface soit à la fois esthétique et adaptée à tous les écrans.
-- **Développer la logique interactive** avec **JavaScript**, en implémentant des calculs dynamiques et une gestion intelligente des événements.
+#### Objectifs du projet
+Ce projet a été réalisé dans un objectif pédagogique pour maîtriser les fondamentaux du développement web :
+- HTML : structuration d'une page web avec une interface claire et fonctionnelle
+- CSS : stylisation et adaptation responsive de l'interface
+- JavaScript : développement de la logique interactive, implémentation de calculs dynamiques et gestion des événements
 
-Au-delà des aspects techniques, ce projet m'a également appris l'importance de **l'ergonomie** et de **l'accessibilité** dans la création d'outils numériques. L'objectif était de concevoir une calculatrice **fonctionnelle, intuitive et accessible**, tout en appliquant les bonnes pratiques de développement pour garantir un code propre et maintenable.
+Ce projet m'a également permis de comprendre l'importance de :
+- L'ergonomie : création d'une interface intuitive et facile à utiliser
+- L'accessibilité : rendre l'outil utilisable par le plus grand nombre
+- La maintenabilité : application des bonnes pratiques pour un code propre et évolutif
 
-#### Ce que j'en ai appris
-- **Maîtrise des langages web** : HTML, CSS et JavaScript.
-- **Logique de programmation** : Manipulation des expressions mathématiques et gestion des événements.
-- **Gestion des erreurs** : Affichage de messages clairs et utilisation de `try/catch`.
-- **Design et accessibilité** : Interface intuitive et adaptée aux écrans tactiles.
+#### Apprentissages
+- Maîtrise des langages web : approfondissement de HTML, CSS et JavaScript
+- Logique de programmation : manipulation des expressions mathématiques, gestion des événements et modularisation du code
+- Gestion des erreurs : affichage de messages clairs et utilisation de try/catch
+- Design et accessibilité : création d'une interface intuitive adaptée aux différents supports
 
-#### Compétences mises en avant
-- Développement **front-end** (HTML, CSS, JavaScript).
-- Création d'interfaces **responsive** et accessibles.
-- Résolution de problèmes et optimisation du code.
+#### Compétences démontrées
+- Développement front-end : maîtrise de HTML, CSS et JavaScript
+- Création d'interfaces : design responsive, accessible et ergonomique
+- Résolution de problèmes : gestion des erreurs, optimisation du code et bonnes pratiques
+- Autonomie : recherche de solutions et apprentissage continu
 
 ---
 
-## Niveau Intermédiaire *(À venir)*
+## Niveau Intermédiaire
+
+*(Section en cours de développement)*
 
 ---
 
-## Niveau Avancé *(À venir)*
+## Niveau Avancé
+
+*(À venir)*
+
+---
+### Prochaines étapes
+- Développer des projets de niveau Intermédiaire et Avancé pour explorer :
+  - Les APIs (ex. : intégration d'une API météo ou financière)
+  - Les frameworks modernes (React, Vue.js)
+  - Les animations avancées (CSS/JS)
+  - La persistance des données (localStorage, Firebase)
+- Améliorer l'interactivité avec des fonctionnalités dynamiques
+- Contribuer à des projets open source pour enrichir mon expérience
