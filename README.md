@@ -2,7 +2,7 @@
 
 Bienvenue dans mon portfolio de projets web, où je mets en pratique mes compétences en développement front-end avec **HTML**, **CSS** et **JavaScript**. Ces projets évoluent constamment pour refléter ma progression technique et l'acquisition de nouvelles compétences.
 
-*Dernière mise à jour : 13 juin 2026*
+*Dernière mise à jour : 14 juin 2026*
 
 ---
 
@@ -42,6 +42,8 @@ Ce projet est une calculatrice complète combinant HTML, CSS et JavaScript pour 
 - Les opérations avancées : racine carrée, puissance, inverse, modulo et changement de signe
 
 Conçue pour être 100% responsive, elle s'adapte parfaitement aux écrans de toutes tailles (mobile, tablette, desktop). Son design épuré et ses boutons intuitifs la rendent accessible à tous les utilisateurs.
+
+![Image de la calculatrice](https://github.com/AlexandreCoussediere/Projets-Web/blob/main/D%C3%A9butant/Calculatrice%20Responsive%20%E2%80%94%20Mozilla%20Firefox%2013_06_2026%2019_21_41.png "Calculatrice")
 
 #### Fonctionnalités
 
